@@ -1,0 +1,27 @@
+body {
+    font-size: 16px; /* Cambia la grandezza del testo a 16px */
+}
+
+h1 {
+    font-size: 32px; /* Cambia la grandezza del testo degli h1 a 32px */
+    text-align: center;
+}
+
+p {
+    font-size: 20px; /* Cambia la grandezza del testo dei paragrafi a 14px */
+    text-align: center;
+}
+
+.small-image {
+    width: 200px; /* Rimpicciolisce l'immagine a 200px di larghezza */
+    display: block; /* Assicura che l'immagine sia un blocco */
+    margin: 20px auto; /* Centra l'immagine orizzontalmente e aggiunge un margine verticale */
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.youtube-player {
+    margin-top: 50px; /* Aggiunge un margine superiore di 20px */
+}
